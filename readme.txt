@@ -20,3 +20,5 @@ https://www.youtube.com/watch?v=tC8Xj_Bf8Fw
    - 만튼 폴더에서 우버튼클릭후 Git bash here 선택한다.
    - git remote origin 가져올주소
    - git pull origin master
+   
+   -깃허브에서 추가한 사항 !!!
